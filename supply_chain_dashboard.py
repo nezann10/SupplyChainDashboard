@@ -16,7 +16,7 @@ with left_column:
     This dashboard provides insights into key supply chain metrics, including inventory levels, 
     lead times, supplier performance, and more.
     """)
-    
+    # rtyhtrurtu
     st.markdown("### Required Columns")
     st.markdown("""
     Your CSV file should include the following columns:
