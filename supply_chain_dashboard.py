@@ -16,7 +16,7 @@ with left_column:
     This dashboard provides insights into key supply chain metrics, including inventory levels, 
     lead times, supplier performance, and more.
     """)
-    # rtyhtrurtu
+    
     st.markdown("### Required Columns")
     st.markdown("""
     Your CSV file should include the following columns:
@@ -37,7 +37,7 @@ with left_column:
     
     # Add a footer
     st.markdown("---")
-    st.markdown("Created by [Your Name] | [Your Portfolio/GitHub Link]")
+    st.markdown("Created by Neo Mauizan Ali Fitrah] | Dummy Dataset Download here: https://bit.ly/DummyDatasetSupplyChain]")
 
 # Right column content
 with right_column:
